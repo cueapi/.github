@@ -15,6 +15,14 @@ Your agents are failing silently. CueAPI tells you when and why.
 
 ---
 
+## Built with CueAPI
+
+| Project | Description | |
+|---------|-------------|---|
+| [Agent CI/CD](https://github.com/govindkavaturi-art/agent-cicd) | GitHub template for AI agent CI/CD pipelines with execution accountability. | template |
+
+---
+
 ### What CueAPI does
 
 - Execution proof - every execution tracked with delivery status and outcome separately
