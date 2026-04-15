@@ -31,6 +31,7 @@ CueAPI is the primitive that makes the agent prove its claims, at the API bounda
 | [cueapi/cueapi-cli](https://github.com/cueapi/cueapi-cli) | Official CLI. `pip install cueapi` (or `brew install cueapi/tap/cueapi` on Mac) | ![pypi](https://img.shields.io/pypi/v/cueapi?label=pypi) |
 | [cueapi/cuechain](https://github.com/cueapi/cuechain) | TypeScript primitive for verifying contracts between LLM pipeline steps. | ![stars](https://img.shields.io/github/stars/cueapi/cuechain?style=flat&label=stars) |
 | [cueapi/cueapi-action](https://github.com/cueapi/cueapi-action) | GitHub Action to schedule and verify agent jobs from your CI. `uses: cueapi/cueapi-action@v1` | ![stars](https://img.shields.io/github/stars/cueapi/cueapi-action?style=flat&label=stars) |
+| [cueapi/cueapi-mcp](https://github.com/cueapi/cueapi-mcp) | Official MCP server. Give any MCP host (Claude Desktop, Cursor, Zed) scheduler + verification gate tools. `npx @cueapi/mcp` | ![stars](https://img.shields.io/github/stars/cueapi/cueapi-mcp?style=flat&label=stars) |
 
 ## Built with CueAPI
 
