@@ -1,10 +1,8 @@
-# CueAPI
-
-**Make your agents accountable.**
-
-AI agents fail silently. CueAPI makes silent failure impossible.
+**CueAPI makes silent failure impossible.**
 
 Schedule agent work, gate every handoff with verification, and refuse to advance until your agent attaches evidence of what it actually did. Once recorded, the outcome is on the record forever — no rewrites, no retroactive edits.
+
+Make your agents accountable.
 
 ## 5-minute quickstart
 
