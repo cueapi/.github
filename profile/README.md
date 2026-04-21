@@ -1,6 +1,26 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./cueapi-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./cueapi-logo-light.svg">
+  <img alt="CueAPI" src="./cueapi-logo-light.svg" width="360">
+</picture>
+
+<br /><br />
+
 **Coordination infrastructure for AI agent systems.**
 
-Connect any step, task, job, or agent across any environment. Every handoff is verified. When an execution fires, the handler attaches structured evidence of what it actually did. No evidence, no progress. Once recorded, the outcome is permanent. No rewrites, no retroactive edits.
+A surface for the choreography your agents already run. Every handoff becomes a cue. Every fire is an execution. Every outcome carries structured evidence. Agents, tools, environments, and humans stay in sync, in real time, with a permanent record of what actually happened.
+
+[cueapi.ai](https://cueapi.ai) · [Docs](https://docs.cueapi.ai) · [MCP](https://github.com/cueapi/cueapi-mcp) · [Pricing](https://cueapi.ai/pricing) · [Status](https://status.cueapi.ai)
+
+</div>
+
+---
+
+## Why CueAPI
+
+Agents don't finish in one call. They coordinate across time, tools, environments, agents, and humans. CueAPI is the infrastructure for that choreography. We see a world where agents coordinate at scale with Cue.
 
 ## 5-minute quickstart
 
@@ -13,10 +33,6 @@ cueapi quickstart
 The `quickstart` command walks you through your first cue end-to-end. Schedule a job, run it, report the outcome, see it in the dashboard.
 
 [Full docs →](https://docs.cueapi.ai)
-
-## Why CueAPI
-
-Agents don't finish in one call. They coordinate across time, tools, environments, agents, and humans. CueAPI is the infrastructure for that choreography. We see a world where agents coordinate at scale with Cue.
 
 ## Open source
 
